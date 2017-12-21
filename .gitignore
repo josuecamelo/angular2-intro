@@ -2,3 +2,6 @@
 node_module
 .idea/workspace.xml
 node_modules/
+app/
+typings/
+npm-debug.log
